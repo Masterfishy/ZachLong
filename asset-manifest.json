@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Masterfishy/ZachLong/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Masterfishy/ZachLong/static/js/main.48c0bea3.chunk.js",
+    "main.js.map": "/Masterfishy/ZachLong/static/js/main.48c0bea3.chunk.js.map",
+    "runtime-main.js": "/Masterfishy/ZachLong/static/js/runtime-main.612ff91a.js",
+    "runtime-main.js.map": "/Masterfishy/ZachLong/static/js/runtime-main.612ff91a.js.map",
+    "static/js/2.bc5b117a.chunk.js": "/Masterfishy/ZachLong/static/js/2.bc5b117a.chunk.js",
+    "static/js/2.bc5b117a.chunk.js.map": "/Masterfishy/ZachLong/static/js/2.bc5b117a.chunk.js.map",
+    "index.html": "/Masterfishy/ZachLong/index.html",
+    "precache-manifest.6746ca81bb0908703e5b5e4b8950c5d2.js": "/Masterfishy/ZachLong/precache-manifest.6746ca81bb0908703e5b5e4b8950c5d2.js",
+    "service-worker.js": "/Masterfishy/ZachLong/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Masterfishy/ZachLong/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bc5b117a.chunk.js.LICENSE.txt": "/Masterfishy/ZachLong/static/js/2.bc5b117a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Masterfishy/ZachLong/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612ff91a.js",
+    "static/js/2.bc5b117a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.48c0bea3.chunk.js"
+  ]
+}
