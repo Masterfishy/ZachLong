@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Masterfishy/ZachLong/precache-manifest.6746ca81bb0908703e5b5e4b8950c5d2.js"
+  "/Masterfishy/ZachLong/precache-manifest.e4af565dc9ba52ab9d82c1325cc5debe.js"
 );
 
 self.addEventListener('message', (event) => {
